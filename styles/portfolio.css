@@ -62,7 +62,7 @@ nav ul li a {
 .banner{
     display: flex;
     justify-content: space-between;
-    margin: 10 35px 0 230px;
+    margin: 0px 35px 0 230px;
 }
 .banner-greetings{
     font-size: 45px;
